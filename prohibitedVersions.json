@@ -1,6 +1,6 @@
 {
-  "do-not-run-versions": [,
-    "0.5.3"
+  "do-not-run-versions": [
+    "0.5.3",
     "0.9.5",
     "1.0.4"
   ]
